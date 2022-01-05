@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.indra.runners.UploadRunners" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="22LAP5CG0525FBR" time="0.0">
+  <properties/>
+  <system-out><![CDATA[17:36:49.638 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\File_Upload\serenity.properties 
+17:36:49.702 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\File_Upload\serenity.properties 
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\File_Upload\serenity.properties 
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://webdriveruniversity.com/File-Upload/index.html?
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=File_Upload
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=10000
+17:36:49.719 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+17:36:50.087 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\File_Upload\serenity.properties 
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\File_Upload\serenity.properties 
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\File_Upload\serenity.properties 
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://webdriveruniversity.com/File-Upload/index.html?
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=File_Upload
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=10000
+17:36:50.103 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+17:36:50.119 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+ Learn Serenity BDD online at http://serenity-dojo.com                               
+-------------------------------------------------------------------------------------
+?[0m
+17:36:50.119 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@c9d9c965
+17:36:50.135 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Cargue de archivo
+17:36:50.205 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: se debe poder cargar un archivo
+-------------------------------------------------------------------(cargue-de-archivo;se-debe-poder-cargar-un-archivo)
+17:37:00.171 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+17:37:00.238 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+17:37:00.254 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@56dc4437
+17:37:00.254 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Cargue de archivo:se debe poder cargar un archivo
+17:37:00.254 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@56dc4437: Generating report for test outcome: Cargue de archivo:se debe poder cargar un archivo
+17:37:00.254 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for se debe poder cargar un archivo to file C:\File_Upload\target\site\serenity\4eea7a7ab7a345116cd6aea2c367847e4a60919d282a75df8393521a3f967c07.json (using temp file C:\File_Upload\target\site\serenity\4eea7a7ab7a345116cd6aea2c367847e4a60919d282a75df8393521a3f967c07.json3cb5e784-bda9-4061-acef-9f577208f681)
+17:37:00.307 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Cargue de archivo:se debe poder cargar un archivo done
+17:37:00.307 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+17:37:00.307 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 53 ms
+17:37:00.307 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@738ce570
+17:37:00.307 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Cargue de archivo:se debe poder cargar un archivo
+17:37:00.307 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@738ce570: Generating report for test outcome: Cargue de archivo:se debe poder cargar un archivo
+17:37:00.307 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR se debe poder cargar un archivo in 4eea7a7ab7a345116cd6aea2c367847e4a60919d282a75df8393521a3f967c07
+17:37:00.323 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+17:37:00.323 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+17:37:00.387 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+17:37:00.387 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+17:37:00.455 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 4eea7a7ab7a345116cd6aea2c367847e4a60919d282a75df8393521a3f967c07_screenshots.html
+17:37:00.904 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 4eea7a7ab7a345116cd6aea2c367847e4a60919d282a75df8393521a3f967c07_screenshots.html in 449 ms
+17:37:00.904 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Cargue de archivo:se debe poder cargar un archivo in 4eea7a7ab7a345116cd6aea2c367847e4a60919d282a75df8393521a3f967c07.html in directory C:\File_Upload\target\site\serenity  
+17:37:00.908 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 4eea7a7ab7a345116cd6aea2c367847e4a60919d282a75df8393521a3f967c07.html
+17:37:00.940 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+17:37:00.940 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+17:37:01.022 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 4eea7a7ab7a345116cd6aea2c367847e4a60919d282a75df8393521a3f967c07.html in 114 ms
+17:37:01.023 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Cargue de archivo:se debe poder cargar un archivo done
+17:37:01.023 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+17:37:01.023 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 716 ms
+17:37:01.240 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Closing darkroom
+17:37:01.240 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line shutting down
+
+1 Scenarios (?[32m1 passed?[0m)
+3 Steps (?[32m3 passed?[0m)
+0m10,220s
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
